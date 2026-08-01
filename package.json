@@ -16,6 +16,7 @@
   "homepage": "https://github.com/phanison898/playwright-typescript-framework#readme",
   "devDependencies": {
     "@playwright/test": "^1.62.1",
-    "@types/node": "^26.1.2"
+    "@types/node": "^26.1.2",
+    "prettier": "^3.9.6"
   }
 }
